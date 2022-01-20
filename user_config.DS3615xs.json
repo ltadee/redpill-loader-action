@@ -3,7 +3,8 @@
     "vid": "0x0781",
     "pid": "0x5571",
     "sn": "1430LWN021792",
-    "mac1": "0011327E1AE1"
+    "mac1": "0011327E1AE1",
+    "mac2": "0011327E1AE2"
   },
   "synoinfo": {
     "supportsystemperature": "no",
